@@ -1,5 +1,7 @@
 ## Table of Contents
 
+https://www.youtube.com/watch?v=qdcB4Y_h_Z0&list=PLfu_Bpi_zcDPj1aR3zgS-TAwsxXetHzrW&index=1
+
 | Section | File |
 |---------|------|
 | Agents, Structured Output, Tools | [agents.ipynb](agents.ipynb) |
